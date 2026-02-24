@@ -1,66 +1,42 @@
-# 🚀 Projeto Front-End
+# 👋 Olá, eu sou Igor Marcondes!
 
-Este é um projeto desenvolvido para praticar HTML e CSS, com foco em organização, estruturação e estilização moderna.
+💻 Desenvolvedor Front-End em formação  
+🚀 Estudando HTML, CSS e JavaScript  
+📚 Focado em evoluir todos os dias  
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## 🧠 Sobre mim
+
+Sou apaixonado por tecnologia e estou no início da minha jornada como desenvolvedor front-end.  
+Atualmente estou estudando HTML e CSS e praticando através de pequenos projetos para fortalecer minha base.
+
+Acredito que consistência é mais importante que velocidade. Estou evoluindo um pouco todos os dias. 💪
+
+---
+
+## 🛠️ Tecnologias que estou aprendendo
 
 - HTML5
 - CSS3
+- JavaScript (iniciando)
+- Git e GitHub
 
 ---
 
-## 🎯 Objetivo do Projeto
+## 🎯 Objetivo
 
-O objetivo deste projeto foi:
-
-- Praticar a estruturação correta do HTML
-- Melhorar a organização das classes CSS
-- Treinar posicionamento com Flexbox
-- Desenvolver um layout moderno e responsivo
+Meu objetivo é me tornar um desenvolvedor front-end profissional e trabalhar criando interfaces modernas, responsivas e bem estruturadas.
 
 ---
 
-## 📷 Preview
+## 📈 Em constante evolução...
 
-Adicione aqui uma imagem do seu projeto:
-
-![Preview do Projeto](./preview.png)
-
----
-
-## ▶️ Como executar o projeto
-
-1. Clone o repositório:
-
-git clone https://github.com/seuusuario/nomedoprojeto.git
-
-2. Abra o arquivo `index.html` no navegador.
+Estou sempre praticando e melhorando meus projetos.  
+Cada repositório aqui representa um passo na minha evolução 🚀
 
 ---
 
-## 📚 Aprendizados
+## 📫 Contato
 
-Durante o desenvolvimento eu pratiquei:
-
-- Estrutura semântica
-- Organização de código
-- Separação de responsabilidades (HTML e CSS)
-- Melhoria na leitura e escrita de código
-
----
-
-## 📌 Status
-
-🚧 Em desenvolvimento  
-ou  
-✅ Projeto concluído  
-
----
-
-## 👨‍💻 Desenvolvido por
-
-**Igor Marcondes**
-
-🔗 LinkedIn: https://www.linkedin.com/in/www.linkedin.com/in/igormarcondes68a23a4
+🔗 LinkedIn: https://www.linkedin.com/in/igormarcondes68a23a4
